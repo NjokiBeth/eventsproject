@@ -47,10 +47,8 @@ Ensure you have MySQL installed and running on your local machine or server.
 ## 🖼️ Database ERD
 
 Here is the Entity-Relationship Diagram (ERD) for the project:
-![E-commerce ERD](./event_management_erd.png)
+![E-commerce ERD](./eventserd.png)
 
-
-![Event Management System ERD](./event_management_erd.jpg)
 
 ## 🤝 Contributing
 
